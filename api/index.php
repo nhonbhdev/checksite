@@ -22,7 +22,7 @@
             ];
             links.map(function (urlLink) {
                 var settings = {
-                    "url": "checkurl.php",
+                    "url": checkUrl,
                     "method": "GET",
                     "data":
                     {
